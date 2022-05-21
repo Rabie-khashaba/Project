@@ -1,3 +1,5 @@
+//ADD NEW COMMENT TO ANOTHER BRANCH
+
 // menu item
 const menuItems = document.querySelectorAll('.menu-item');
 //messages
